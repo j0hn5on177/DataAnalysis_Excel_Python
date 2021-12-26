@@ -1,3 +1,3 @@
 # Thinkful_Projects
-Projects I did through the Thinkful Data Analytics Program 
+Projects I created through the Thinkful Data Analytics Program 
 
