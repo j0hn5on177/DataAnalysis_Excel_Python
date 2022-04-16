@@ -4,4 +4,4 @@
   2. House Prices A/B Hypotheses Testing in Excel 
   3. Spotify Soundtrack Attributes A/B testing in Python notebook
 
-- slide decks currently have issues with images, ignore ppt files 
+- slide decks currently have issues with images, can ignore ppt files 
